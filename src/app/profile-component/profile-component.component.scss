@@ -1,5 +1,6 @@
 a {
     color: blue;
+    margin-right: 5px;
     text-decoration: none;
     border: 1px solid blue;
     border-radius: 4px;
@@ -7,3 +8,8 @@ a {
     a.st-active {
     background-color: silver;
     }
+
+#git {
+    border-radius: 12px;
+    padding: 3px;
+}
